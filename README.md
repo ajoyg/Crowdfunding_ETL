@@ -4,7 +4,7 @@ ETL project 2 UCB Data Visualization Bootcamp
 
 The project builds an ETL pipeline using Python, Pandas, and regular expressions to extract and transform crowdfunding data (crowdfunding.xlsx and contacts.xlsx) from the Resources folder and creates clean datasets that includes campaign, category, subcategory, and contacts, the output is stored in 4 csv files with the same names in the Output folder.
 
-The ETL_Mini_Project_final.ipynb Jupyter notebook does the following:
+The ETL_final/ETL_Mini_Project_final.ipynb Jupyter notebook does the following:
 1. Reads the crowdfunding.xlsx file
 2. Extracts the unique category and subcategory of funding and creates 2 csv files (Output/category.csv, Output/subcategory.csv)
 3. Extracts and cleans the campaign data, merges it with the unique category and subcategory data and creates the campaign data in a csv file (Output/campaign.csv)
