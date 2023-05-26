@@ -1,6 +1,6 @@
 # Crowdfunding_ETL
 ETL project 2 UCB Data Visualization Bootcamp
-Contributors: Ajay Gopalkrishna, Beethoven Sabar
+### Contributors: Ajay Gopalkrishna, Beethoven Sabar
 
 The project builds an ETL pipeline using Python, Pandas, and regular expressions to extract and transform crowdfunding data (crowdfunding.xlsx and contacts.xlsx) from the Resources folder and creates clean datasets that includes campaign, category, subcategory, and contacts, the output is stored in 4 csv files with the same names in the Output folder.
 
