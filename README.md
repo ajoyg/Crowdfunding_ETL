@@ -20,7 +20,7 @@ The next step is to create the crowdfunding database from the above cleaned data
 3. Run the DDL script to create the tables
 4. Import the csv data into the tables and add the table constraints
 
-Here are the screenshots of the database tables:
+Here are the screenshots of the database tables:<br>
 ![Category](https://github.com/ajoyg/Crowdfunding_ETL/blob/main/Output/crowdfunding_db.category.jpg) 
 ![Subcategory](https://github.com/ajoyg/Crowdfunding_ETL/blob/main/Output/crowdfunding_db.subcategory.jpg) 
 ![Contacts](https://github.com/ajoyg/Crowdfunding_ETL/blob/main/Output/crowdfunding_db.contacts.jpg) 
