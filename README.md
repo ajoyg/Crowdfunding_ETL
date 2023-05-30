@@ -14,7 +14,7 @@ The ETL_final/ETL_Mini_Project_final.ipynb Jupyter notebook does the following:
 
 The next step is to create the crowdfunding database from the above cleaned data.
 1. Create the entity relationship (ER) diagram that shows the tables and their relationships between them. Refer to the ERD_crowdfunding_db_pgerd.png file in the Output folder.
-![Crowdfunding ERD](https://github.com/ajoyg/Crowdfunding_ETL/blob/main/Output/ERD_crowdfunding_db.pgerd.png)
+![Crowdfunding ERD](https://github.com/ajoyg/Crowdfunding_ETL/blob/main/Output/Crowdfunding_ERD_Alt.png)
 3. Generate the DDL script to create the tables and constraits (crowdfunding_db_DDL.sql)
 2. Create the database in Postgres using PGAdmin, the name of the database is crowdfunding_db.  
 3. Run the DDL script to create the tables
